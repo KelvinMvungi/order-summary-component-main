@@ -15,6 +15,6 @@
 .DS_Store
 .prettierignore
 
+# Avoid README.txt in commits before the project is finished 
+README.txt
 
-# Avoid README.md in commits before the project is finished 
-README.md
